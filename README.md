@@ -1,6 +1,6 @@
 # Sales-Analysis Report Overview
 
-The deliverable is a Sales Report from Year 2013-2016 for various product Categories. 
+The deliverable is a Power BI Sales Report from Year 2013-2016 for various product Categories. 
 
 Data Source: Kaggle
 
